@@ -1,3 +1,4 @@
+//https://imcs.dvfu.ru/cats/static/problem_text-cpid-1288788.html?sid=HvLYzyeKYgb2eE3GHwHDmh6At9XfQV
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
