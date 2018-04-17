@@ -1,6 +1,7 @@
 /*ExrE Top Places
  * solve with binary tree
  * using ShiftUp and ShiftDown
+ https://imcs.dvfu.ru/cats/static/problem_text-cpid-1289414.html?sid=HvLYzyeKYgb2eE3GHwHDmh6At9XfQV
  */
 #include <stdio.h>
 #include <mem.h>
