@@ -1,8 +1,13 @@
 /*ExrE Top Places
  * solve with binary tree
+<<<<<<< HEAD
  * using ShiftUp and ShiftDown procedures
  * and additional arrays to change member for O(log(n))
  * so all exr will work for O(m*log(n))
+=======
+ * using ShiftUp and ShiftDown
+ https://imcs.dvfu.ru/cats/static/problem_text-cpid-1289414.html?sid=HvLYzyeKYgb2eE3GHwHDmh6At9XfQV
+>>>>>>> aa32e99d0e53d5c6fbaf5e90847bf80b4b44a814
  */
 #include <stdio.h>
 #include <mem.h>
